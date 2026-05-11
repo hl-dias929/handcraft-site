@@ -1,6 +1,6 @@
 .container {
     display: flex;
-    justify-content: space-betweenQdd;
+    justify-content: space-between;
 }
 
 .item {
